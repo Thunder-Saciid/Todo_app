@@ -3,3 +3,6 @@ Spise maat
 ny mobil
 spise is
 spille
+python
+python
+commit

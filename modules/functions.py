@@ -10,7 +10,7 @@ def get_todos(filepath="todos.txt"):
         Todos = file.readlines()
     return Todos
 
-def write_todos(filepath=FILEPATH):
+def write_todos(Todos, filepath=FILEPATH):
     """
     writes a list to a text file
     :param filepath:
@@ -18,3 +18,4 @@ def write_todos(filepath=FILEPATH):
     """
     with open(filepath,"w") as file:
         file.writelines(Todos)
+
