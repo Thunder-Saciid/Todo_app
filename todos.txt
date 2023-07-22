@@ -2,7 +2,7 @@ lage mat
 Spise maat
 ny mobil
 spise is
-spille
-python
-python
-commit
+gamedata sciencepython
+gå på jobb
+spise lunsj
+add ny commit
